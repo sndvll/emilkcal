@@ -1,0 +1,15 @@
+{
+  "name": "favorite_sauce",
+  "ingredients": [
+    {
+      "name": "oatly_imat",
+      "weight": 250,
+      "kcal_per_100": 150
+    },
+    {
+      "name": "jensen_favourite_sauce",
+      "weight": 250,
+      "kcal_per_100": 70
+    }
+  ]
+}

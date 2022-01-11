@@ -1,0 +1,20 @@
+{
+  "name": "tomato_sauce",
+  "ingredients": [
+    {
+      "name": "mutti_tomatoes",
+      "weight": 200,
+      "kcal_per_100": 80
+    },
+    {
+      "name": "olive_oil",
+      "weight": 20,
+      "kcal_per_100": 800
+    },
+    {
+      "name": "white_wine",
+      "weight": 100,
+      "kcal_per_100": 35
+    }
+  ]
+}

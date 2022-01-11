@@ -1,0 +1,20 @@
+{
+  "name": "fusk_bea",
+  "ingredients": [
+    {
+      "name": "schallotten_lok",
+      "weight": 30,
+      "kcal_per_100": 47
+    },
+    {
+      "name": "vitvins_vinager",
+      "weight": 45,
+      "kcal_per_100": 21
+    },
+    {
+      "name": "creme_fraiche",
+      "weight": 407,
+      "kcal_per_100": 150
+    }
+  ]
+}
